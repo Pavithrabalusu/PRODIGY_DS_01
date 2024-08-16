@@ -10,6 +10,3 @@ Create a bar chart or histogram to visualize the distribution of a categorical o
 <li>Matplotlib</li>
 <li>Seaborn for visualization</li>
 </ul>
-
-
-
